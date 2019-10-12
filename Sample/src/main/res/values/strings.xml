@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Card Form Sample</string>
+    <string name="purchase">Purchase</string>
+    <string name="valid">Form is valid</string>
+    <string name="invalid">Form is invalid</string>
+    <string name="add_credit_card"><u>+ Add new credit card </u></string>
+    <string name="dark_theme_form">Dark Theme</string>
+    <string name="scan_with_card_io">Scan with card.io</string>
+    <string name="default_card_num">***** **** **** 9357</string>
+    <string name="pay_credit_card">Pay</string>
+    <string name="save_card">Save Card</string>
+</resources>
